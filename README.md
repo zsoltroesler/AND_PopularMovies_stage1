@@ -25,4 +25,6 @@ What Will I Learn After Stage 1?
  - You will use adapters and custom list layouts to populate list views.
  - You will incorporate libraries to simplify the amount of code you need to write
  
+ Tags: JSON parsing, HTTP networking, AsyncTaskLoader, RecyclerView, ViewHolder, CardView, Picasso, ButterKnife 
+ 
  ![popular_movies](https://user-images.githubusercontent.com/23049871/36668463-ad6be39e-1af1-11e8-8051-09ff4805a576.gif)
