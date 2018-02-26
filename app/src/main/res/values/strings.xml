@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Text to display in the list when there are no movies -->
+    <string name="no_movies">No movies found.</string>
+
+    <string name="movie_backdrop">movie backdrop</string>
+    <string name="movie_poster">movie poster</string>
+
+    <!-- Details UI Strings -->
+    <string name="release_date">Release date:</string>
+    <string name="rating">Rating:</string>
+
+    <!-- Strings for the "order by" preference -->
+    <string name="pref_label_order">Order by</string>
+    <string name="pref_key_order" translatable="false">order_by</string>
+    <string name="pref_default_order" translatable="false">@string/pref_value_popular</string>
+
+    <!-- Labels for "order by" preference -->
+    <string name="pref_label_popular">Most popular</string>
+    <string name="pref_label_top_rated">Top rated</string>
+
+    <!-- Values in SharedPreferences -->
+    <string name="pref_value_popular" translatable="false">popular</string>
+    <string name="pref_value_top_rated" translatable="false">top_rated</string>
+
+</resources>
