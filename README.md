@@ -1,5 +1,6 @@
 # AND_PopularMovies_stage1
-Udacity Android Developer Nanodegree by Google project#1
+Udacity <a href="https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801/" 
+       title="Android Developer Nanodegree">Android Developer Nanodegree</a> by Google project#1
 
 **Project #1: Popular Movies app**
 
